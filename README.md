@@ -27,7 +27,7 @@ The dataset needs to be preprocessed into a specific format file to be input by 
 
 ```
 g++ static.cpp -o static -std=c++11 -O3
-./main <dataset_address>
+./static <dataset_address>
 ```
 
 # Usage of Dynamic Algorithm
